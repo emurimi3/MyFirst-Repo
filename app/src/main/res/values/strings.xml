@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="Login">Login</string>
+    <string name="textlabel">My first custom app</string>
+    <string name="hint">Email or Username</string>
+    <string name="hint2">Password</string>
+    <string name="inputtype">2019</string>
+
+.</resources>
